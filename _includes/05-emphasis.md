@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Sample text, written in *italics* or __bold__ with an extra emoji :heart:
